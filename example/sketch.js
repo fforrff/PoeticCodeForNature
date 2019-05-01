@@ -13,7 +13,7 @@ function setup() {
   text = createDiv(description);
   text.position(20, 400);
   text.style("font-family", "monospace");
-  text.style("font-size", "12pt");
+  text.style("font-size", "11pt");
 
 }
 
