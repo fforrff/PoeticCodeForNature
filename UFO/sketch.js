@@ -7,7 +7,7 @@ function setup() {
   canvas.class("artwork");
 
   description = "\
-  산을 배경으로 UFO가 날아다니는 모습을 그려봤습니다.
+  산을 배경으로 UFO가 날아다니는 모습을 그려봤습니다.\
   ";
   text = createDiv(description);
   text.position(20, 400);
