@@ -9,4 +9,4 @@
 ## 작업
  * [1 UFO](./UFO/)
 
- ![UFO IMAGE](./example_UFO.png)
+ ![UFO IMAGE](./UFO_UFO.png)
