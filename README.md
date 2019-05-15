@@ -7,6 +7,6 @@
 
 
 ## 작업
- * [1 UFO](./https://editor.p5js.org/fforrff@gmail.com/sketches/fqwsSTuqt/)
+ * [1 UFO](./UFO/)
 
- ![UFO IMAGE](./UFO_UFO.png)
+ ![UFO IMAGE](./UFO/UFO.png)
