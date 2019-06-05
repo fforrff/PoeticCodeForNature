@@ -1,6 +1,4 @@
-## 시작하기
-
-접속 주소 : <http://fforrff.github.io/PoeticCodeForNature/>
+접속 주소 : <https://fforrff.github.io/YJgithub/>
 
 
 ## 진유정
